@@ -2,7 +2,7 @@
 
 This repositry is an index of my research style coding projects, focused on mathematical modelling, statistical inference and quantitative methods.
 
-## Projetcs 
+## Projects 
 
 Contact information : 
 Email : emilielouisecrate@gmail.com
